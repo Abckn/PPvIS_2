@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="swt-win64-3.6.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SWT/swt-win64-3.6.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/swt/3.2.1-v3235e/swt-3.2.1-v3235e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
